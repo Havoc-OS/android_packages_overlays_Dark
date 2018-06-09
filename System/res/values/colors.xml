@@ -51,4 +51,10 @@
     <!-- Toast text and bg colors -->
     <color name="toast_bg_color">#cc212121</color>
     <color name="toast_text_color">@*android:color/primary_text_default_material_dark</color>
+	
+    <color name="havoc_qs_active">#ffffff</color>
+    <color name="havoc_qs_inactive">#cacaca</color>
+    <color name="havoc_qs_unavailable">#706f6f</color>
+    <color name="havoc_qs_circle_active">?android:attr/colorAccent</color>
+    <color name="havoc_qs_circle_inactive">#4b4b4b</color>
 </resources>
